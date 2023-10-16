@@ -2,4 +2,4 @@
 
 Breviloquia Italica is a research project investigating lexical innovation in contemporary Italian in a large Twitter corpus.
 
-This organization is where all the work happens.
+To orient yourself you can browse the [list of all publications](https://github.com/breviloquia-italica/publications).
